@@ -67,7 +67,7 @@ a:hover{
     font-size: medium;
     border-radius: 2px;
     color: white;
-    background-color: #19BDB4;
+    background-color: orange;
     cursor: pointer;
     opacity: .9;
 }
